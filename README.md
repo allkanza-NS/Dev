@@ -1,3 +1,3 @@
-# allkanza-NS.github.io
+# allkanza/Dev
 Root Repository
 приложение для компании
